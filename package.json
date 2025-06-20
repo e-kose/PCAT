@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "Pcat Photo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-kose/PCAT.git"
+  },
+  "keywords": [
+    "Photo",
+    "app",
+    "camera"
+  ],
+  "author": "ekose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e-kose/PCAT/issues"
+  },
+  "homepage": "https://github.com/e-kose/PCAT#readme",
+  "devDependencies": {
+    "prettier": "3.5.3"
+  }
+}
